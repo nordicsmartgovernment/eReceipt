@@ -1,5 +1,5 @@
-= PEPPOL BIS Billing 3.0
+= NSG&B eReceipt 1.0
 
-This repository contains the resources making up PEPPOL BIS Billing 3.0.
+This repository contains the resources making up NSG&B eReceipt 1.0.
 
-Please use our link:https://openpeppol.atlassian.net/servicedesk/customer/portal/1[Service desk] to report any issues related to the specification.
+Please use this address ????? to report any issues related to the specification.
