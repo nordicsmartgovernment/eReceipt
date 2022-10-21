@@ -2,4 +2,4 @@
 
 This repository contains the resources making up NSG&B eReceipt 1.0.
 
-Please use this address ????? to report any issues related to the specification.
+Please use this address ?????.?? to report any issues related to the specification.
