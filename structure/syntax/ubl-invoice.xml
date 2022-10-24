@@ -61,6 +61,17 @@
             <Reference type="RULE">PEPPOL-EN16931-F001</Reference>
             <Value type="EXAMPLE">2017-11-01</Value>
         </Element>
+	    
+	<Element>
+            <Term>cbc:IssueTime</Term>
+            <Name>Invoice issue timedate</Name>
+            <Description>The date when the Invoice was issued. Format "HH:MM:SS+timezone"</Description>
+            <DataType>Date</DataType>
+            <Reference type="BUSINESS_TERM">BT-2000</Reference>
+            <Reference type="RULE">BR-0300</Reference>
+            <Reference type="RULE">PEPPOL-EN16931-F00100</Reference>
+            <Value type="EXAMPLE">09:30:00+01:00</Value>
+        </Element>
 
         <Element cardinality="0..1">
             <Term>cbc:DueDate</Term>
