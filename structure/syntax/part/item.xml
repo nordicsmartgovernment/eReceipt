@@ -187,7 +187,7 @@
             <Term>cac:AdditionalItemProperty</Term>
             <Name>ITEM ATTRIBUTES</Name>
             <Description>A group of business terms providing information about properties of the goods and services
-                invoiced.
+                in the eReceipt. This id the place to have extra information aboout Retail line transaction.
             </Description>
             <Reference type="BUSINESS_TERM">BG-32</Reference>
             <Element>
