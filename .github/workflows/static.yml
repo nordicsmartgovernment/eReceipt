@@ -25,7 +25,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ https://nordicsmartgovernment.github.io/eReceipt/ }}
+      url: ${{ 'https://nordicsmartgovernment.github.io/eReceipt' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
