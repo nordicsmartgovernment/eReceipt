@@ -15,6 +15,7 @@ v{version}
 :sectnums:
 :CIUS: Core Invoice Usage Specification (CIUS)
 :title-logo-image: ../images/peppol.jpg
+:nsg: https://nordicsmartgovernment.org/ [NSG&B]
 
 
 
