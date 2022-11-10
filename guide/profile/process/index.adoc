@@ -6,5 +6,6 @@
 
 include::process.adoc[]
 
+include::use-case-1.adoc[]
 
 :leveloffset: -1

@@ -1,7 +1,8 @@
 [preface]
 = Introduction to Nordic Smart Government & Business (NSG&B)
 
-This NSG&B Business Interoperability Specification (NSG&B BIS) provides the specification for implementing eReceipt. The format is based on Peppol Invoice as part of Peppol BIS Billing 3.0 but is adapted to meet functional requirements for the exchange of credit-card transactions and other invoice attachments. The format will be developed for use in a nordic pilot before a later decision on ownership and government. Possible options in the future are
+This NSG&B Business Interoperability Specification (NSG&B BIS) provides the specification for implementing eReceipt. The format is based on Peppol Invoice as part of Peppol BIS Billing 3.0 but is adapted to meet functional requirements for the exchange of credit-card transactions and other invoice attachments. The format will be developed for use in a nordic pilot before a later decision on ownership and government. Possible options in the future are:
+
 * eReceipt remains a NSG&B format
 * The format is converted to a Peppol BIS
 * The format is managed by CEN

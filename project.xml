@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project xmlns="urn:fdc:difi.no:2017:vefa:structure:Project-1">
 
-    <Name>Peppol BIS Billing 3.0</Name>
+    <Name>NSG BIS eReceipt 1.0</Name>
 
     <Documentation path="bis/">Business Interoperability Specifications (BIS)</Documentation>
     <Documentation path="compliance/">BIS compliance</Documentation>
@@ -29,11 +29,6 @@
         <Type>Structure-1</Type>
         <Path>structure/syntax/ubl-invoice.xml</Path>
         <Title>UBL Invoice</Title>
-    </Resource>
-    <Resource>
-        <Type>Structure-1</Type>
-        <Path>structure/syntax/ubl-creditnote.xml</Path>
-        <Title>UBL Credit Note</Title>
     </Resource>
 
     <!-- Rules -->

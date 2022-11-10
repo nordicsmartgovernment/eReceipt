@@ -3,10 +3,9 @@
 :doctitle: NSG&B eReceipt
 //:doctitle: image:../shared/images/peppol.jpg[float="right", width=100%] NSG&B eReceipt
 :version: 1.0
-//:shared-dir: ../../shared
+:shared-dir: ../../shared
 :snippet-dir: ../../rules/snippets
 
 :name-op-en: Nordic Smart Government & Business - Digital business documents and Product information
 
-
-//include::../shared/settings.adoc[]
+include::../shared/settings.adoc[]

@@ -1,0 +1,11 @@
+
+= Addtional item property
+
+eReceipt-specific information shall be placed under Item/AdditionalItemProperty.
+Only predefined values according to code-list Properties are allowed in AdditionalItemProperty/Name.
+
+.UBL example of additional item property
+[source, xml, indent=0]
+----
+include::../../../rules/snippets/Snippet-full.xml[tags=additional]
+----

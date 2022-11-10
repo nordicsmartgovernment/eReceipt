@@ -1,21 +1,21 @@
 
-= Invoice functionality
+= eReceipt functionality
 
 :leveloffset: +1
 
 include::intro.adoc[]
 
-include::accounting.adoc[]
+include::invoice_matching.adoc[]
 
-include::verification.adoc[]
+include::tax_refund.adoc[]
 
-include::auditing.adoc[]
+//include::auditing.adoc[]
 
-include::vat-reporting.adoc[]
+//include::vat-reporting.adoc[]
 
-include::payment.adoc[]
+//include::payment.adoc[]
 
-include::negative-invoices.adoc[]
+//include::negative-invoices.adoc[]
 
 
 :leveloffset: -1

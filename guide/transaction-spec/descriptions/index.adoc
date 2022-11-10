@@ -8,25 +8,27 @@ In the subchapters below you find examples of selected parts of the transaction.
 
 include::roles-and-actor.adoc[]
 
-include::delivery-details.adoc[]
+include::additional-item-property.adoc[]
 
-include::references/index.adoc[]
+//include::delivery-details.adoc[]
 
-include::preceding-invoice.adoc[]
+//include::references/index.adoc[]
 
-include::allowance.adoc[]
+//include::preceding-invoice.adoc[]
 
-include::vat-currency.adoc[]
+//include::allowance.adoc[]
 
-include::payment.adoc[]
+//include::vat-currency.adoc[]
 
-include::intrastat.adoc[]
+//include::payment.adoc[]
 
-include::item.adoc[]
+//include::intrastat.adoc[]
 
-include::price.adoc[]
+//include::item.adoc[]
 
-include::uom.adoc[]
+//include::price.adoc[]
+
+//include::uom.adoc[]
 
 
 :leveloffset: -1

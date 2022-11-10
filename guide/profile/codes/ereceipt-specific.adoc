@@ -1,0 +1,38 @@
+
+
+= Specific code lists for eReceipt
+
+== AdditionalItemProperty/Name Code
+
+//include::../../syntax/codelists/cn-type.adoc[]
+
+
+
+[cols="1h,2", options="header"]
+.Code list
+|===
+| Code
+| Description
+
+| TransactionID
+| The identification of the transaction
+
+| TransactionDescription
+| The description of content in the transaction
+
+| CompanyName
+| The name of the company delivering the service
+
+| Date
+| The date the service was provided
+
+| Time
+| The time the service was provided
+
+| ControlUnit
+| ????
+
+| DigitalReceipt
+| Yes or No
+
+|===

@@ -365,10 +365,41 @@
                     <cbc:ID>VAT</cbc:ID>
                 </cac:TaxScheme>
             </cac:ClassifiedTaxCategory>
-            <cac:AdditionalItemProperty>
-                <cbc:Name>AdditionalItemName</cbc:Name>
-                <cbc:Value>AdditionalItemValue</cbc:Value>
-            </cac:AdditionalItemProperty>
+            <!-- tag::additional[] -->
+
+   <cac:AdditionalItemProperty>
+				<cbc:Name>TransactionID</cbc:Name>
+				<cbc:Value>QQtxad1177en</cbc:Value>
+			</cac:AdditionalItemProperty>
+			<cac:AdditionalItemProperty>
+				<cbc:Name>TransactionDescription</cbc:Name>
+				<cbc:Value>Lunch</cbc:Value>
+			</cac:AdditionalItemProperty>
+			<cac:AdditionalItemProperty>
+				<cbc:Name>RestaurantName</cbc:Name>
+				<cbc:Value>Fyrtårn</cbc:Value>
+			</cac:AdditionalItemProperty>
+			<cac:AdditionalItemProperty>
+				<cbc:Name>VisitDate</cbc:Name>
+				<cbc:Value>2022-05-02</cbc:Value>
+			</cac:AdditionalItemProperty>
+			<cac:AdditionalItemProperty>
+				<cbc:Name>VisitTime</cbc:Name>
+				<cbc:Value>12:17</cbc:Value>
+			</cac:AdditionalItemProperty>
+			<cac:AdditionalItemProperty>
+				<cbc:Name>CheckoutDesignation</cbc:Name>
+				<cbc:Value>Fyrtårn1212</cbc:Value>
+			</cac:AdditionalItemProperty>
+			<cac:AdditionalItemProperty>
+				<cbc:Name>ControlUnit</cbc:Name>
+				<cbc:Value>202205</cbc:Value>
+			</cac:AdditionalItemProperty>
+			<cac:AdditionalItemProperty>
+				<cbc:Name>DigitalReceipt</cbc:Name>
+				<cbc:Value>Yes</cbc:Value>
+			</cac:AdditionalItemProperty>
+            <!-- end::additional[] -->
         </cac:Item>
         <!-- tag::price[] -->
         <cac:Price>

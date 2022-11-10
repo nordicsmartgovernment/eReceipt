@@ -1,0 +1,14 @@
+
+= Use case 1: eReceipt for goods and services
+
+This use cases covers the exchange of eReceipts to document transactions from buying goods or services. This can for instance be from filling fuel at a gas station or paying for a taxi drive.
+The process flow and choreography is shown in this process diagram.
+
+image::../shared/images/Use-case-1.png[Use case 1, align="center"]
+
+* A supplier issues and sends an eReceipt to a customer. The eReceipt refers to one invoice. An eReceipt may also refer to a contract or a frame agreement?. 
+* The eReceipt will specify services with a name (description) and a value.
+* The buyer receives the eReceipt and processes it with one of the following results:
+  .. The customer fully approves the eReceipt and posts it in the accounting system
+  .. The customer completely rejects the eReceipt and contacts the supplier
+  .. The customer disputes parts of the eReceipt, contacts the supplier and requests a new eReceipt
