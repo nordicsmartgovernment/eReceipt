@@ -25,12 +25,12 @@ NSG&B holds the copyright of this BIS. It may not be modified, re-distribute, so
 
 This document is structured as follows:
 
-*	*Chapters 1 - 5* gives general information on the business processes, requirements and functionalities
-*	*Chapter 6* describes the semantical data types
+*	*Chapters 1 - 3* gives general information on the business processes, requirements and functionalities
+//*	*Chapter 6* describes the semantical data types
 //*	*Chapters 7 - 9* describes VAT, calculations and rounding.
-*	*Chapter 7* provides examples of selected parts of the specification
-*	*Chapter 8* gives details and links to all code lists used
-* *Chapter 9* gives information on Peppol identifiers
+*	*Chapter 4* provides examples of selected parts of the specification
+*	*Chapter 5* gives details and links to all code lists used
+*    *Chapter 6* gives information on Peppol identifiers
 //*	*Chapter 13* describes in detail central information elements.
 //*	*Chapters 14 and 15* provides information on validation and validation rules
 //*	*Annexes* give information on restrictions according to {EN16931}, use of Cross Industry Invoice syntax and national and syntax rules.

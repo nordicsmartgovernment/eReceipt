@@ -30,7 +30,7 @@ include::../transaction-spec/principles/index.adoc[]
 
 include::../profile/process/index.adoc[]
 
-include::../transaction-spec/functionality/index.adoc[]
+//include::../transaction-spec/functionality/index.adoc[]
 
 //include::../transaction-spec/requirements/index.adoc[]
 

@@ -10,6 +10,6 @@ image::../shared/images/eReceipt_overview.png[The eReceipt process, align="cente
 This profile covers the following use cases:
 
 [horizontal]
-Use case 1:: eReicept for goods and services (fuel and taxi services)
+Use case 1 and 4:: eReicept for goods and services (fuel and taxi services)
 Use case 2:: Matching eReceipt to Invoice
 Use case 3:: Use eReceipt for tax refund  

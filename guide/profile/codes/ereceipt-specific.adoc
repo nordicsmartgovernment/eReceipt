@@ -2,37 +2,101 @@
 
 = Specific code lists for eReceipt
 
-== AdditionalItemProperty/Name Code
+== AdditionalItemProperty/Name
 
 //include::../../syntax/codelists/cn-type.adoc[]
 
 
 
-[cols="1h,2", options="header"]
+[cols="1h,2,1", options="header"]
 .Code list
 |===
-| Code
+| Code/Name
 | Description
+| Area
 
 | TransactionID
 | The identification of the transaction
+| General
 
 | TransactionDescription
 | The description of content in the transaction
+| General
 
 | CompanyName
 | The name of the company delivering the service
+| General
 
-| Date
-| The date the service was provided
-
-| Time
-| The time the service was provided
+| CheckoutDesignation
+| Type of checkout
+| General
 
 | ControlUnit
 | ????
+| General
 
 | DigitalReceipt
 | Yes or No
+| General
+
+| TripCO2
+| Carbon dioxyd footprint
+| General
+
+| TripDuration
+| Duration of trip in days
+| General
+
+| AdvantageCreditCard
+| Advantage creditcard
+| General
+
+| AdvantageAgreementID
+| Advantage agreement ID
+| General
+
+| ResturantName
+| Name of the restaurant
+| Restaurant
+
+| VisitDate
+| The date for the restaurant visit
+| Restaurant
+
+| VisitTime
+| The time for arriving the restaurant
+| Restaurant
+
+| TravelDate
+| The date of the travel
+| Air Travel
+
+| TravelTime
+| The start time for the travel
+| Air Travel
+
+| FlightNumber
+| Flight number
+| Air Travel
+
+| DepartureAirport
+| Departure airport
+| Air Travel
+
+| ArrivalAirport
+| Arrival airport
+| Air Travel
+
+| DepartureLocation
+| Departure location
+| Train
+
+| ArrivalLocation
+| Arrival location
+| Train
+
+| TripLength
+| Trip length
+| Taxi
 
 |===

@@ -7,9 +7,9 @@
 
 
 | Invoice
-| urn:cen.eu:en16931:2017# +
-compliant#urn:fdc:peppol.eu:2017:poacc:billing:3.0
-| urn:fdc:peppol.eu:2017:poacc:billing:01:1.0
+| urn:cen.eu:en16931:2022# +
+compliant#urn:fdc:nsgb:2023:ereceipt:1.0
+| urn:fdc:nsgb:2023:ereceipt:01:1.0
 
 |===
 

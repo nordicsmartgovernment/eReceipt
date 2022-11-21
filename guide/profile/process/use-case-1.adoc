@@ -1,5 +1,5 @@
 
-= Use case 1: eReceipt for goods and services
+= Use case 1 and 4: eReceipt for goods and services
 
 This use cases covers the exchange of eReceipts to document transactions from buying goods or services. This can for instance be from filling fuel at a gas station or paying for a taxi drive.
 The process flow and choreography is shown in this process diagram.
