@@ -5,11 +5,11 @@ The eReceipt process includes issuing and sending the eReceipt from the supplier
 
 The diagram below shows the use cases covered by this NSG&B BIS profile. All use cases assumes that the eReceipt is exchanged electronically.
 
-image::../shared/images/eReceipt_overview.png[The eReceipt process, align="center"]
+image::../shared/images/Overview.png[The eReceipt process, align="center"]
 
 This profile covers the following use cases:
 
 [horizontal]
-Use case 1 and 4:: eReicept for goods and services (fuel and taxi services)
-Use case 2:: Matching eReceipt to Invoice
+Use case 1 and 4:: Send eReicept for goods and services (fuel and taxi services)
+Use case 2:: Match eReceipt towards Invoice
 Use case 3:: Use eReceipt for tax refund  
