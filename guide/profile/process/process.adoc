@@ -3,13 +3,14 @@
 
 The eReceipt process includes issuing and sending the eReceipt from the supplier to the customer and the reception and handling of the same at the customers site. It may also cover the matching of the eReceipt aganinst an invoice and the use of eReceipt for tax refund.
 
-The diagram below shows the use cases covered by this NSG&B BIS profile. All use cases assumes that the eReceipt is exchanged electronically.
+The diagram below shows the use cases covered by this NSG&B BIS profile. All use cases assume that the eReceipt is exchanged electronically. The first test of eReceipt will use the Peppol Invoice as transaction with service information sent as additional information on line level.  
 
 image::../shared/images/Overview.png[The eReceipt process, align="center"]
-
-This profile covers the following use cases:
 
 [horizontal]
 Use case 1 and 4:: Send eReicept for goods and services (fuel and taxi services)
 Use case 2:: Match eReceipt towards Invoice
 Use case 3:: Use eReceipt for tax refund  
+
+Use case 1 and 4 will be tested in the pilot early 2023.
+Use case 2 and 3 will be verified and described more in detail in the next phase.

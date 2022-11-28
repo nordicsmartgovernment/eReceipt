@@ -1,0 +1,10 @@
+
+= Use case 3: Use eReceipt for tax refund 
+This use cases covers the the use of eReceipt for tax refund in each country. 
+The process flow and choreography is shown in this process diagram.
+
+image::../shared/images/Use-case-3.png[Use case 3, align="center"]
+
+* A customer reads an eReceipt from the datastore or POS database and divides each receipt per country.
+* Tax is calculated for each country and the correct format is chosen, eReceipt or other.
+* A Tax refund is created and sent to the domestic tax administration in each country. 
