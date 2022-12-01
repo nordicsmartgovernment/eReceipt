@@ -1,7 +1,7 @@
 
 = Use case 3: Use eReceipt for tax refund 
-This use cases covers the the use of eReceipt for tax refund in each country. 
-The process flow and choreography is shown in this process diagram.
+This use cases covers the use of eReceipt for tax refund in each country. 
+The process flow and choreography are shown in this process diagram.
 
 image::../shared/images/Use-case-3.png[Use case 3, align="center"]
 

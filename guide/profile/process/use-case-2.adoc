@@ -1,7 +1,7 @@
 
 = Use case 2: Match eReceipt towards Invoice
 This use cases covers the match of an eReceipt towards a corresponding Invoice from the credit card company. 
-The process flow and choreography is shown in this process diagram.
+The process flow and choreography are shown in this process diagram.
 
 image::../shared/images/Use-case-2.png[Use case 2, align="center"]
 

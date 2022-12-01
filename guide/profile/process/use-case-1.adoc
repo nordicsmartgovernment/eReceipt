@@ -2,7 +2,7 @@
 = Use case 1 and 4: Send eReceipt for goods and services
 
 This use cases covers the exchange of eReceipts to document transactions from buying goods or services. This can for instance be from filling fuel at a gas station or paying for a taxi drive.
-The process flow and choreography is shown in this process diagram.
+The process flow and choreography are shown in this process diagram.
 
 image::../shared/images/Use-case-1.png[Use case 1, align="center"]
 

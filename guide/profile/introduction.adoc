@@ -7,18 +7,18 @@ This NSG&B Business Interoperability Specification (NSG&B BIS) provides the spec
 * The format is converted to a Peppol BIS
 * The format is managed by CEN
 
-The vision of NSG is to create value for the SMEs by making real time business data accessible and usable for innovation and growth across the region, in an automatic, consent based and secure manner.
+The vision of NSG&B is to create value for the SMEs by making real time business data accessible and usable for innovation and growth across the region, in an automatic, consent based and secure manner.
 Our core idea is that structured and standardized business data can be shared automatically and thereby replace burdensome manual handling of data exchange. This involves alignment of digital systems and services as opposed to digital silos and requires collaboration across sectors using the business data.
 
 The mission is thus not to implement a centralized IT system, but to enable and facilitate a transformation of the Nordic ecosystem and business processes, both nationally and across the Nordic borders. We in the public sector cannot - and do not want to - create the Nordic region's digital and transparent ecosystems for financial information by ourselves.
 We are dependent on actors in the private market and are convinced that the best solutions will come when we co-create. This of course opens up new business opportunities for actors in the private market.
-Though, we need to emphasize that co-creation does not give any exclusive rights or access to information. NSG is a transparent collaborative project run by government agencies but in collaboration and knowledge sharing with a larger community of stakeholders. But of course, the closer you are to the development, the more input we get together.
+Though, we need to emphasize that co-creation does not give any exclusive rights or access to information. NSG&B is a transparent collaborative project run by government agencies but in collaboration and knowledge sharing with a larger community of stakeholders. But of course, the closer you are to the development, the more input we get together.
 
-For more information about NSG see: http://www.nordicsmartgovernment.org
+For more information about NSG&B see: http://www.nordicsmartgovernment.org
 
 .Statement of copyright
 ****
-NSG&B holds the copyright of this BIS. It may not be modified, re-distribute, sold or repackaged in any other way without the prior consent of NSG&B.
+NSG&B holds the copyright of this BIS. Any comments or questions to the document should be directed to NSG&B.
 ****
 
 == Document Structure
@@ -31,6 +31,7 @@ This document is structured as follows:
 *	*Chapter 4* provides examples of selected parts of the specification
 *	*Chapter 5* gives details and links to all code lists used
 *    *Chapter 6* gives information on Peppol identifiers
+*    *Chapter 7* gives information on UBL syntax
 //*	*Chapter 13* describes in detail central information elements.
 //*	*Chapters 14 and 15* provides information on validation and validation rules
 //*	*Annexes* give information on restrictions according to {EN16931}, use of Cross Industry Invoice syntax and national and syntax rules.
@@ -41,7 +42,7 @@ This document provides the detailed specification for the use and exchange of th
 
 == Audience
 
-The audience for this document are organizations wishing to be NSG enabled for exchanging eReceipt transactions, and/or their ICT-suppliers. These organizations may be:
+The audience for this document is organizations wishing to be NSG&B enabled for exchanging eReceipt transactions, and/or their ICT-suppliers. These organizations may be:
 
      * Service providers
      * Contracting Authorities (CA)

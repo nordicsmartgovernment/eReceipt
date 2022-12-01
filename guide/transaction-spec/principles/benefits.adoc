@@ -2,4 +2,4 @@
 = Benefits
 
 The eReceipt provides support for the electronic exchange of credit-card transactions and other invoice attachments.
-The vision of NSG is to create value for the SMEs by making real time business data accessible and usable for innovation and growth across the region, in an automatic, consent based and secure manner. The core idea is that structured and standardized business data can be shared automatically and thereby replace burdensome manual handling of data exchange. This involves alignment of digital systems and services as opposed to digital silos and requires collaboration across sectors using the business data.
+The vision of NSG&B is to create value for the SMEs by making real time business data accessible and usable for innovation and growth across the region, in an automatic, consent based and secure manner. The core idea is that structured and standardized business data can be shared automatically and thereby replace burdensome manual handling of data exchange. This involves alignment of digital systems and services as opposed to digital silos and requires collaboration across sectors using the business data.
