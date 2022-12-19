@@ -8,7 +8,7 @@ In the subchapters below you find examples of selected parts of the transaction.
 
 include::roles-and-actor.adoc[]
 
-include::additional-item-property.adoc[]
+include::additionalitemproperty/additional-item-property.adoc[]
 
 //include::delivery-details.adoc[]
 

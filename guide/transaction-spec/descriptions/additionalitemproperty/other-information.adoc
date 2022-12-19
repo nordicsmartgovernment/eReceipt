@@ -1,0 +1,10 @@
+
+= Other information
+
+Identifies other information that can be sendt in the eReceipt.
+
+.UBL example of other information:
+[source, xml, indent=0]
+----
+include::../../../../rules/snippets/ereceipt-full.xml[tags=otherinformation]
+----

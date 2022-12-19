@@ -1,0 +1,10 @@
+
+= Length and duration
+
+Identifies the length in km and the duration in hours and minutes for a taxi trip.
+
+.UBL example of length and duration:
+[source, xml, indent=0]
+----
+include::../../../../rules/snippets/ereceipt-full.xml[tags=lengthduration]
+----

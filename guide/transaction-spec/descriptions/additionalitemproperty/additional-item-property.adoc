@@ -1,0 +1,19 @@
+
+= Additional item property
+
+eReceipt-specific information shall be placed under Item/AdditionalItemProperty.
+Only predefined values according to code-list Properties are allowed in AdditionalItemProperty/Name.
+
+The different information types are described below.
+
+:leveloffset: +1
+
+include::identification.adoc[]
+
+include::carbon-footprint.adoc[]
+
+include::departure-and-arrival.adoc[]
+
+include::length-and-duration.adoc[]
+
+include::other-information.adoc[]

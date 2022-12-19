@@ -1,0 +1,10 @@
+
+= Identification and description
+
+Different ID's may be sendt, but only one description.
+
+.UBL example of identification and description information:
+[source, xml, indent=0]
+----
+include::../../../../rules/snippets/ereceipt-full.xml[tags=id]
+----

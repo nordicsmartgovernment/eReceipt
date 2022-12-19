@@ -1,0 +1,10 @@
+
+= Carbon footprint
+
+Defines the carbon footprint for the taxi trip.
+
+.UBL example of carbon footprint:
+[source, xml, indent=0]
+----
+include::../../../../rules/snippets/ereceipt-full.xml[tags=co2]
+----

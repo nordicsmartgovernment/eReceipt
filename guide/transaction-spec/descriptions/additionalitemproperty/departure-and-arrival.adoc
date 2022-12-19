@@ -1,0 +1,10 @@
+
+= Departure and arrival
+
+Identifies the departure and arrival location for a trip.
+
+.UBL example of departure and arrival location:
+[source, xml, indent=0]
+----
+include::../../../../rules/snippets/ereceipt-full.xml[tags=departureandarrival]
+----
